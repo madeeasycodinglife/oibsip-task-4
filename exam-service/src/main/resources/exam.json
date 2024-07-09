@@ -1,0 +1,32 @@
+{
+  "title": "Sample Exam",
+  "duration": 60,
+  "questions": [
+    {
+      "text": "What is the capital of France?",
+      "answers": [
+        {
+          "text": "Paris",
+          "isCorrect": true
+        },
+        {
+          "text": "London",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 2 + 2?",
+      "answers": [
+        {
+          "text": "4",
+          "isCorrect": true
+        },
+        {
+          "text": "22",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
