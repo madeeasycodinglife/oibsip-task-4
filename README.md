@@ -5,7 +5,7 @@
 
 The backend for this project is hosted in the following GitHub repository:
 
-- [Backend Repository](https://github.com/madeeasycodinglife/oibsip-task-4-frontend)
+- [Frontend Repository](https://github.com/madeeasycodinglife/oibsip-task-4-frontend)
 
 Feel free to explore the repository for more details about the backend implementation.
 
