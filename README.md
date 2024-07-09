@@ -1,7 +1,7 @@
 # Project README
 
 
-## Backend Repository
+## Frontend Repository
 
 The backend for this project is hosted in the following GitHub repository:
 
