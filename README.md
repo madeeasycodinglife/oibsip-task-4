@@ -3,11 +3,11 @@
 
 ## Frontend Repository
 
-The backend for this project is hosted in the following GitHub repository:
+The front-end for this project is hosted in the following GitHub repository:
 
 - [Frontend Repository](https://github.com/madeeasycodinglife/oibsip-task-4-frontend)
 
-Feel free to explore the repository for more details about the backend implementation.
+Feel free to explore the repository for more details about the front-end implementation.
 
 ## Oasis Infobyte Internship Work
 
